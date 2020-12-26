@@ -1,0 +1,54 @@
+figcaption{
+    opacity: 0;
+}
+
+
+.starting-price{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#title:hover{
+    color:white;
+}
+
+#brushes h1{
+    background-color: mediumspringgreen;
+}
+
+#frames h1{
+    background-color: lightcoral;
+}
+
+#finnish h1{
+    background-color: skyblue;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+
+}
+
+h1:hover{
+    color:seagreen;
+    background: white;
+}
+
+h1{
+    font-size: 32px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+}
+
+#title{
+    color: khaki;
+    font-weight: bold;
+    font-size: 100px;
+    font-family: Helvetica;
+    text-align: center;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+    opacity: 0.75;
+}
